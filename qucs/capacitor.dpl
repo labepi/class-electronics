@@ -1,0 +1,31 @@
+<Qucs Schematic 24.3.2>
+<Properties>
+  <View=-78,20,1061,702,1.38073,0,0>
+  <Grid=10,10,0>
+  <DataSet=capacitor.dat>
+  <DataDisplay=capacitor.sch>
+  <OpenDisplay=0>
+  <Script=capacitor.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 138 302 706 242 3 #c0c0c0 1 00 0 0 0.05 1 1 -1 0.5 1 1 -1 0.5 1 315 0 225 1 0 0 "" "" "">
+	<"ngspice/tran.i(pr1)" #ff0000 0 3 0 0 0>
+  </Rect>
+  <Rect 138 612 706 242 3 #c0c0c0 1 00 0 0 0.05 1 1 -1 0.5 1 1 -1 0.5 1 315 0 225 1 0 0 "" "" "">
+	<"ngspice/tran.v(pr2)" #ff0000 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
